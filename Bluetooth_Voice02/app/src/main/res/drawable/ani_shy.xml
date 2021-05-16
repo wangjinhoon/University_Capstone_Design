@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/shy01"
+        android:duration="300"/>
+    <item android:drawable="@drawable/shy02"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy03"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy04"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy05"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy06"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy07"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy08"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy09"
+        android:duration="800"/>
+    <item android:drawable="@drawable/shy08"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy07"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy06"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy05"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy04"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy03"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy02"
+        android:duration="50"/>
+    <item android:drawable="@drawable/shy01"
+        android:duration="300"/>
+
+</animation-list>

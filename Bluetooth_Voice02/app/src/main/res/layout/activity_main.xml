@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+
+    <TextView
+        android:id="@+id/connecting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:text="연결 상태 : "
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/connection_status_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/connecting"
+        android:text=""
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tvHaru"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/connection_status_textview"
+        android:textColor="#000"
+        android:text="Siri"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tvnotdata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/tvHaru"
+        android:textColor="#000"
+        android:text="NotData"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tvrecivedata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvnotdata"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:text="ReciveData"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/imgFace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgempty"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ani_nomal01" />
+
+    <ImageView
+        android:id="@+id/imgempty"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#000" />
+
+    <DigitalClock
+        android:id="@+id/dclock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="#0F0"
+        android:textSize="150dp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tvname"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0F0"
+        android:textSize="180dp"
+        android:text="하  루"/>
+
+</RelativeLayout>

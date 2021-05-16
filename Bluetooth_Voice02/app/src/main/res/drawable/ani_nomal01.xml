@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/nomal00" android:duration="500"/>
+
+    <item android:drawable="@drawable/nomal01_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal02_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal02_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal03_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal03_02" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal04_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal04_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal04_03" android:duration="400"/>
+    <item android:drawable="@drawable/nomal04_04" android:duration="50"/>
+    <item android:drawable="@drawable/nomal04_05" android:duration="50"/>
+    <item android:drawable="@drawable/nomal04_06" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal05_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal05_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal06_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal01_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal02_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal02_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal03_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal03_02" android:duration="1100"/>
+
+    <item android:drawable="@drawable/nomal10_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal10_02" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal11_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_03" android:duration="400"/>
+    <item android:drawable="@drawable/nomal11_04" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_05" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_06" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal12_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal12_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal06_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal01_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal02_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal02_02" android:duration="1100"/>
+
+    <item android:drawable="@drawable/nomal03_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal03_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal10_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal10_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal11_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_03" android:duration="400"/>
+    <item android:drawable="@drawable/nomal11_04" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_05" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_06" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal12_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal12_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal06_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal01_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal01_03" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal02_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal02_02" android:duration="1000"/>
+
+    <item android:drawable="@drawable/nomal03_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal03_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal10_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal10_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal11_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_03" android:duration="400"/>
+    <item android:drawable="@drawable/nomal11_04" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_05" android:duration="50"/>
+    <item android:drawable="@drawable/nomal11_06" android:duration="600"/>
+
+    <item android:drawable="@drawable/nomal12_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal12_02" android:duration="800"/>
+
+    <item android:drawable="@drawable/nomal06_01" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_02" android:duration="50"/>
+    <item android:drawable="@drawable/nomal06_03" android:duration="800"/>
+
+</animation-list>

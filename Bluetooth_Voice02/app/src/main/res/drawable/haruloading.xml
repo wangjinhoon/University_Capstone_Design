@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/haruloading01" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading02" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading03" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading04" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading05" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading06" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading07" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading08" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading09" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading10" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading11" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading12" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading13" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading14" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading15" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading16" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading17" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading18" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading19" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading20" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading21" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading22" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading23" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading24" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading25" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading26" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading27" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading28" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading29" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading30" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading31" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading32" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading33" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading34" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading35" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading36" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading37" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading38" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading39" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading40" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading41" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading42" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading43" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading44" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading45" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading46" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading47" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading48" android:duration="90"/>
+    <item android:drawable="@drawable/haruloading49" android:duration="90"/>
+
+</animation-list>

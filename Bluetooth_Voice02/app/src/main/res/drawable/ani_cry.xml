@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/cry00"
+        android:duration="300"/>
+
+    <item android:drawable="@drawable/cry01"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry02"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry03"
+        android:duration="500"/>
+
+    <item android:drawable="@drawable/cry04"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry05"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry06"
+        android:duration="500"/>
+
+    <item android:drawable="@drawable/cry07"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry08"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry09"
+        android:duration="50"/>
+
+    <item android:drawable="@drawable/cry10"
+        android:duration="1000"/>
+
+</animation-list>
