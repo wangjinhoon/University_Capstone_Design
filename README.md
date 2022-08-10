@@ -17,6 +17,6 @@
  ![image](https://user-images.githubusercontent.com/83506637/162618844-ab66d86a-1cf1-4c30-a856-37b28e4ae982.png)
 
 
-[관련 Notion 링크](https://tasteful-dianella-4f4.notion.site/fae8539a998a4e26a4a9489040ebcdee)  
+[자세한 내용 Notion 링크](https://tasteful-dianella-4f4.notion.site/fae8539a998a4e26a4a9489040ebcdee)  
 
 [관련 영상 링크](https://youtu.be/3sxtqTbd82k)
