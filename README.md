@@ -1,8 +1,9 @@
 # University_Capstone_Design
 
 ### 사용 기술 스택 : 자바, c++,  Speech-to-Text, Servo.h, L298Drv.h
-
 ### 팀원 : 왕진훈, 송민수, 이충환, 안현민
+### 사용 툴 : Arduino, Android Studio
+### 사용 언어 : C++
 ----
 팀 프로젝트로 진행한 스마트폰을 이용한 음성인식 로봇(HARU) 입니다.
 
